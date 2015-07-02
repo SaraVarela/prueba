@@ -9,6 +9,7 @@
 .Rproj.user/
 .Rproj
 prueba_git.Rproj
+prueba.Rproj
 
 # produced vignettes
 vignettes/*.html
